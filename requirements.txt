@@ -1,0 +1,5 @@
+SpeechRecognition
+pyaudio
+requests
+pydub
+webos-client
